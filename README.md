@@ -6,8 +6,8 @@ Es un sistema de pedidos de comida. Los clientes se registran, ven el catalogo, 
 
 ## Enlaces
 
-- Repositorio de GitHub: 
-- Video de demostracion: 
+- Repositorio de GitHub: https://github.com/FacuAuciello/food-store
+- Video de demostracion: https://youtu.be/-BoyW8pm0kQ
 ## Estructura
 
 ```
