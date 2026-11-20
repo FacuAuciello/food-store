@@ -1,0 +1,8 @@
+//#configuracion raiz de typescript: referencia a la config de la app y a la de node
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}

@@ -1,0 +1,6 @@
+#archivos que git no debe versionar en el frontend
+node_modules
+dist
+.env
+*.local
+*.tsbuildinfo
